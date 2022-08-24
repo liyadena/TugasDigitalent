@@ -1,0 +1,60 @@
+body {
+  background-color:#FFA07A;
+  margin: auto;
+  width: 70%;
+  padding: 30px;
+
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: auto;
+	width: 250px;
+}
+
+h1 {
+	text-align: center;
+	font-family: courier;
+	font-size: 300%;
+}
+
+table, th, td {
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+select {
+	width: 50%;
+	padding: 10px;
+}
+
+.inputtext {
+	width: 98%;
+	padding: 10px;
+}
+
+input[type=submit]{
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.inputjadwal {
+	padding: 5px 6px;
+}
+
+th{
+background-color: #4CAF50;
+}
+
+#tabletampil {
+	background-color: white;
+
+}
